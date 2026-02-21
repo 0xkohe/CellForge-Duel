@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Prompt Cell: Automata Roguelike",
+  "description": "A puzzle roguelike where Conway's Game of Life patterns are interpreted by AI to cast spells.",
+  "requestFramePermissions": []
+}
